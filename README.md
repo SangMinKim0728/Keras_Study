@@ -18,24 +18,18 @@
 - Visual Studio 2022 17.0
 
 ## (2) CUDA ToolKit
-- CUDA 11.7 GA
+- CUDA 11.2 
 
 ## (4) cuDNN 
-- cuDNN 8.4
+- cuDNN 8.1
 
-## Keras
-- V 2.2.2
+### Software Version
+- Keras : V 2.2.2
+- Tensorflow : V 2.9.1
+- Tensorflow-GPU : V 2.9.1
+- Python : V 2.7.16
 
-## Tensorflow
-- V 2.9.1
-
-## Tensorflow-GPU
-- V 2.9.1
-
-## Python
-- V 2.7.16
-
-# Install Reference
+### Install Reference
 - <딥러닝 텐서플로 교과서> - 8장
 - https://theorydb.github.io/dev/2020/02/14/dev-dl-setting-local-python/#%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9Ctensorflow%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%82%AC%EC%A0%84-%ED%98%B8%ED%99%98%EC%84%B1-%EA%B2%80%ED%86%A0
 - https://coding-groot.tistory.com/87
